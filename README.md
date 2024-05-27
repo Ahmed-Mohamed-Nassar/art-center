@@ -1,2 +1,4 @@
 # art-center
- art-center
+
+art-center
+Full Responsive
